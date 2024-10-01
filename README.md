@@ -15,7 +15,7 @@ This Chrome extension automatically saves your CSES username and password when y
 ## **Installation**
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/yourusername/cses-auto-login.git
+   git clone https://github.com/KshitijNegi12/CSES-Auto-Login.git
    ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer Mode** by clicking the toggle switch in the top right corner.
