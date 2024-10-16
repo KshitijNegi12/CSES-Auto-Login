@@ -1,4 +1,4 @@
-// Createor: Kshitij Negi
+// Creator: Kshitij Negi
 document.getElementById('clear').addEventListener('click', function() {
     chrome.storage.sync.clear();
     document.getElementById('txt').textContent = "No Creditials are Saved.";

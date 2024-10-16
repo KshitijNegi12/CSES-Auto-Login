@@ -1,4 +1,4 @@
-// Createor: Kshitij Negi
+// Creator: Kshitij Negi
 // Auto-fill creds when the page loads
 chrome.storage.sync.get(['savedUsername', 'savedPassword'], function(data) {
     if (data.savedUsername && data.savedPassword) {

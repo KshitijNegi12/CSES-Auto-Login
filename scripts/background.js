@@ -1,4 +1,4 @@
-// Createor: Kshitij Negi
+// Creator: Kshitij Negi
 // chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
 //     if (request.action === "startChanges") {
 //       //forwarding it to the popup.js
